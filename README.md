@@ -16,8 +16,8 @@ import pandas as pd
 </br>
 
 1. Importing the pandas software and storing it in the variable pd
-2. Importing the pandas library and giving it the alias pd
-3. **Importing the pandas variable and giving it the alias pd**
+2. **Importing the pandas library and giving it the alias pd**
+3. Importing the pandas variable and giving it the alias pd
 4. Importing the pandas software and storing it in the alias pd
 
 </br>
